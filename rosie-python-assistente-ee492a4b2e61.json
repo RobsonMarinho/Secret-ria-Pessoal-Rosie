@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosie-python-assistente-219204",
+  "private_key_id": "ee492a4b2e6165df6b5dc2e7c8e0720ece11da94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0yJXBQjcSEloA\nj8ntqLZXfHurWmKNgyEnI9id2hJPAnuqoBovBmgIMOcbt9azqXV0D41QSk31/qoI\nsh3GoqyLyNDGrjb84NJ/qqj5khIb/Zl2Kel98ukkOFnuILfC+mFxRCjZIfgZs3Ev\n1uDaDoAxyGWgvIeD5kR+c3kWHqQQZv3FqS9ydld/WKOrre8EE3ZAioNuDd22Wc6l\ncCeMVYppB+/PH9JwiySESJsPBatP4nfkz8K3+uqU23l8pRg/BEJ1KQng0aLKRTJd\nvvu2JZ0kEHoPVgq2RmrZbaprRHFkWMGWGuCxELFVDNKhlrzQWiLQkavWvMpyb5ZC\nQSnXJ17NAgMBAAECggEACzp8Jq08q2gtY+SKZ7L3ZFasfbeW8HApEnvE/ATr5zFh\nyfa4uZv9wSh8ajnQYYdQbr16ivaaggFnwTOC6u/2pJX79aMjcjBqkphgd2PNsSRe\nsDqpMHPybBf96e7pSvhvLfBMUzQrazk8efqwK4sEBlOKkGG1TwlxzqLQbgHIMeaA\n6J0SBGaWsXaS/yfqw5HXpKIBejPDraLo7JayLnebXxu3/5fFh7zg8buDk7+VtAq4\nX1aGcJbPY9MJL4fxZVZa8SI/1Bddiw+mw6mkHSIJz8pMjamuo9V0kAUXOapmEIzF\nt3/yLiLisG3phY4HCMN+PAeXtQIi3nWUCHDuHBQoZwKBgQDnKXkg2Jy2BF19Z9zl\non9yXzi3sipk1z9Fpa+dGsd7gdQYcCpfwgdH3TYHkSFF1l5u+DULCno5yygA2U/g\nSJ16iAyAMSY70uZkwIeBWMoWBOLv9tAYXYpul3Ss06bNR0fNFizDkpb0tbQVtOPi\nWMESB1U/4KgVViktlM4m8URzuwKBgQDINVyDXGX/sEvXgp6CIj1eYfRtKdbWpiZa\n3kE7OK7Nq8u3t4ZHiZp9ziF+T/CRpeP7NdEJzpFjvMAEeR/kJFP1ddtqgIUn2/gE\nl9BhoY3IGXqvjNOJKNYfkqcfMRA3CAoNOv2i+n9YWoFmg4Jr2qZ+N0aQVnDJ08Ow\nd420oQDbFwKBgDTR3jKqLEzO/InONMRn+BUrOuuGk3dNU9DXRiRw3QoUpWEcKCKP\nVFiQbGsYN3EcxaE3p+8o6rrP+AkRntXR4eIAulKEaIcc7rYw5AWjQzH61dwdGnmm\nzh3tD6T6C9A2LGrpWTsrAMFTz51yIuwyeZNkB4+8BswxTuFychSl5o1HAoGBAMfT\nmtbx7kxaJhigIp04l5AQrOoYDHqJs1aW5vy5Ap/9jIN+BeR5D13p07xDBZYZwYcG\nm/Hx32NxDSZpzs7jA3nHfIy8Yir6fn33GOGZYe4KoE1/fdM0kyNIOM4FJm4G9CFo\nc6er5lbFXsp3EEGeJvdrLF78J+8KEhOcAC/9UuFZAoGBAMiqZjEH59QdfhvV5vIg\nupVClv1BhtWA7vpqLAkyBy+ShSG4RTlZQ3vr0fZGf1RgbIRf3p5mcjKOctOCdcmh\nwqf7x4sVSRxQSOGPpEKyJZsreKqxfB1mVt7HrIqvk7aLvZi9SAB8iISnwVrXD1l+\nz9QC29TH1ZBAGwnmV8uDAqhk\n-----END PRIVATE KEY-----\n",
+  "client_email": "rosie-816@rosie-python-assistente-219204.iam.gserviceaccount.com",
+  "client_id": "106242271321997921688",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rosie-816%40rosie-python-assistente-219204.iam.gserviceaccount.com"
+}
